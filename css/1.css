@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0
+}
+
+img {
+    width: 100%;
+}
+
+.swiper-slide h2 {
+    font-size: 30px;
+    text-align: center;
+    background: linear-gradient(45deg, red, green);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    -webkit-animation: text;
+    animation: tada .3s ease infinite;
+
+
+
+}
